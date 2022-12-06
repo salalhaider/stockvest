@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fyp-stockvest",
+  "private_key_id": "88eab7df6d4b4a4ae874b5102e392a7a3fd8f03d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE3nydyX+wrQMm\n4pboqIN3dlhUZko6nfPvzeJbwYyVvL34SzFVnnU/RR3unKSb1ki5QCD9A+Sb37Xv\nKFq73lVhWenUmKhpBKuxvbcgBrgLdpSmQQ6xGZHY1SLvnXCPhmt0p2OGNw2ZyUIl\ncAMvKmJh0IHiUPebqUSgUkTk9tNtPkw0MPI5eMlMCojsmFXbfIIErtp9gkn4PaIb\nYSPbM8ssdQn9GREmigRWpPQ1Xv0RdbJfr++OvQYfxLm8UUyikoR3zuNKuRddM6Xg\nr6yebfnn1ciw0sBZJ2RvpsyNC/8/aj+axed7NKyKJ9zEDfdbBoxUXS1pzRRGtd2o\npmHhli8RAgMBAAECggEAAvH25Gun+VA6S4fw5OPF/TjYFRGnb0FvDX2rku62JCST\n5Tm3QAoYBBF8M1ZUtFfgJETWRYC8GBygebalZll69qMQJ2f9/320VZsyaNRO5y1/\nx22yWwIIW3mDTXlCDoSe2Yq6R38N+RiwoJOgmZFZUdArLEQEs0eEzT7z1MbQRopl\nBQMts5zeCQEE1qW7zXYM9n7dgzRpnCAU+54OCBIXHB4dllNClX1pPCm7fjvHInII\nf7nHaizS1wU1nHH7F6huXfKSQN3jeJGC5aSC/WVEPGdyYTYGJ5iWlzYgpcYDatxV\n1zWTBP8X5l3lM+APBCdhilrQqRLsIuV91agBdXmHAQKBgQDgtZYZWy4uiHAyHJy2\nbpuFstG1pSEwuM3Beh0ffWPOTFMaI97OnWzX0Z+BmiKBEEGG3lb8AV2jWhJ3XdQe\nlqcwNMMfBahJ1RTK/wEgZJ5rsvVvc+5+GVhNY2J9bGgDMppaLVPt8SYO9JQyV1fG\n+SfKDVNGDk0jqXKXZJpaQIk+EQKBgQDgSHRw52mGBfWKICxVGwb2yrQqCGTNc4sR\n2H8aUNK7M5h5skOzJ5uW3n3srulr1txJ/L8OjmdcrU1v8OXGwiqb0iIFypoCLCqM\ncZeqjgyOHO/w4k/zsI96UjxZd5SDVjtOTLb2NT/Hpj5IGIi4IrV4LO7Xq8TRR5oy\nGweLaYDhAQKBgQClyxS+DJpcVuqA7r9pkt5InRFBdl6wtgmJsPF/5GIZOhMufDzO\nMTS3X8DSPMksdLQEMFP5h4BxH+n0DFSPZRRh6uv0HZZ3MzIuPEu2fMauK9IOs3jJ\nrSWLo8JtS+jKQzHDSyJbsssjyaz2H59x/S8wUviX/cFIiKM1tFJ2OJuKIQKBgCLp\nBD7itlknKk4CrgPdPhtB+AMm5VHZb0cq1LXq6LI82LnwlnsXai90mFMz8p9XhVh6\n395LKimRzCDldU6XwHwanDMckxZNe536vGnOzIN+W5a6E0nSLLMUg9JFO7epv3dz\nl3MBXNkdtkoQj49hz69SBydI1EzjAUxVSrpXhLkBAoGAOiJfsC74iFDFJpHP99iY\nkFxkZ92EYEzBjZoWtzOJQnSiSM3X9f2+TWEGR3nY58kmeuVO3Pf/LtbElO4T61o8\nRbvZhjpQTXonSdNWlg4oiSQX8CYyGfDUKVHMEMxNUQMb/TpiqJ00fBWqZCHHnvIR\n3i2h6KUu8ZgXpjySoVWbz30=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fyp-stockvest@appspot.gserviceaccount.com",
+  "client_id": "115668224310397769626",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fyp-stockvest%40appspot.gserviceaccount.com"
+}
